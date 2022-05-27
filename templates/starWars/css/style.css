@@ -1,0 +1,40 @@
+.imperio {background-color: red;
+
+}
+
+.rebeldes {background-color: blue;
+
+}
+
+#vader {font-size: 5rem;
+
+}
+
+#luke {font-style: italic;
+
+}
+
+.storm {border: 5px black dotted;
+    letter-spacing: 1.5rem;
+
+}
+
+.apoyo {text-align: center;
+
+}
+
+.naves {text-transform: uppercase;
+
+}
+
+.droides { text-align: center;
+
+}
+
+ul li {text-decoration: none;
+
+}
+
+img {height: 200px; width: auto;
+
+}

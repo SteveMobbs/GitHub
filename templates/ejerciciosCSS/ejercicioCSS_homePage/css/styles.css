@@ -1,0 +1,35 @@
+body {
+  background-color: #000000ff;
+  font-family: 'Raleway', 'open sans', 'poppins', Arial, Helvetica, sans-serif,
+}
+
+div {margin: 0px; height: auto; text-align: center;
+}
+
+h2 {
+  color: whitesmoke;
+  font-family: 'Raleway';
+  font-style: oblique;
+  font-weight: 400;
+  text-align: center;
+  border: 100px 0px 100px 0px;
+  font-size: 6em;
+  padding: 10px;
+}
+
+h1 {
+  color: whitesmoke;
+  font-family: 'poppins';
+  font-style:normal;
+  font-weight: 200;
+  text-align: center;
+  border: 50px;
+  font-size: 3em;
+}
+
+p {color:whitesmoke;
+  font-family: 'open sans';
+  font-style: normal;
+  font-weight:200;
+  text-align: center;
+}

@@ -1,40 +1,72 @@
-.imperio {background-color: red;
+.imperio {
+    background-color: red;
 
 }
 
-.rebeldes {background-color: blue;
+.rebeldes {
+    background-color: blue;
 
 }
 
-#vader {font-size: 5rem;
+#vader {
+    font-size: 5rem;
 
 }
 
-#luke {font-style: italic;
+#luke {
+    font-style: italic;
 
 }
 
-.storm {border: 5px black dotted;
+.storm {
+    border: 5px black dotted;
     letter-spacing: 1.5rem;
 
 }
 
-.apoyo {text-align: center;
+.apoyo {
+    text-align: center;
 
 }
 
-.naves {text-transform: uppercase;
+.naves {
+    text-transform: uppercase;
 
 }
 
-.droides { text-align: center;
+.droides {
+    text-align: center;
 
 }
 
-ul li {text-decoration: none;
+ul li {
+    text-decoration: none;
 
 }
 
-img {height: 200px; width: auto;
+img {
+    height: 200px;
+    width: auto;
 
 }
+
+#vaderd {
+    font-family: Arial, Helvetica, sans-serif;
+    color: navy;
+    font-size: 3em;
+    background-color: antiquewhite;
+}
+
+#lukes {
+    font-family: Arial, Helvetica, sans-serif;
+    color: orangered;
+    font-size: 3em;
+    background-color: antiquewhite;
+}
+
+#titulo {
+    font-size: 2em;
+    color: antiquewhite;
+}
+
+#originales {color:blueviolet}
